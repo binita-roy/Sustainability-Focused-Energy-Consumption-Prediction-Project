@@ -32,7 +32,6 @@ This project utilizes a **comprehensive dataset** of renewable energy metrics, i
 - **RNN (Recurrent Neural Network)**: Explores sequential dependencies (if present).
 
 ### **📈 Model Evaluation:**
-- Metrics: **Mean Squared Error (MSE) and  Mean Absolute Error (MAE)**.
 - Compare model performance to **identify the best-fit solution**.
 
 ---
